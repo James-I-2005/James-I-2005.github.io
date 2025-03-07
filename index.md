@@ -5,7 +5,7 @@
 
 ## 图片示例
 
-![示例图片](/assets/JamesI.png)
+![示例图片](/assets/JamesI.jpg)
 
 ## 链接示例
 
