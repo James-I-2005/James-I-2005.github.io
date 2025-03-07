@@ -9,5 +9,5 @@
 
 ## 链接示例
 
-- [访问 HTML 文件](\assets\2025年3月7日_逆向工程_最基本的内存&指令.html)
+- [访问 HTML 文件](/assets/deepseek_pore_1.html)
 - [访问另一个 Markdown 文件](README.md)
